@@ -1,0 +1,11 @@
+{
+  "name": "Test Cabinet 1",
+  "ip": "192.168.1.100",
+  "deviceType": "TemperatureChamber",
+  "deviceName": "Temperature Chamber 1",
+  "mysqlHost": "localhost",
+  "mysqlPort": 3306,
+  "mysqlUser": "root",
+  "mysqlPassword": "password",
+  "mysqlDatabase": "test_db"
+}
